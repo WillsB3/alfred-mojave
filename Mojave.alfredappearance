@@ -26,26 +26,26 @@
       "iconSize" : 40
     },
     "search" : {
-      "paddingVertical" : 14,
+      "paddingVertical" : 12,
       "background" : "#FFFFFF19",
       "spacing" : 0,
       "text" : {
         "size" : 24,
-        "colorSelected" : "#FFFFFFFF",
+        "colorSelected" : "#000000FF",
         "font" : "System",
         "color" : "#000000FF"
       },
       "backgroundSelected" : "#00FFB244"
     },
     "window" : {
-      "color" : "#FFFFFFD1",
-      "paddingHorizontal" : 0,
+      "color" : "#FFFFFFC5",
+      "paddingHorizontal" : 6,
       "width" : 559,
       "borderPadding" : 0,
       "borderColor" : "#0000007F",
       "blur" : 40,
       "roundness" : 3,
-      "paddingVertical" : 0
+      "paddingVertical" : 6
     },
     "credit" : "WillsB3",
     "separator" : {
