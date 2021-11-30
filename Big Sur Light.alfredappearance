@@ -1,0 +1,65 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#FFFFFF97",
+        "font" : "System",
+        "color" : "#0000005D"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFCE",
+        "font" : "System",
+        "color" : "#0000005D"
+      },
+      "backgroundSelected" : "#2878CFFF",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFDE",
+        "font" : "System",
+        "color" : "#00000099"
+      },
+      "iconPaddingHorizontal" : 8,
+      "roundness" : 6,
+      "paddingVertical" : 8,
+      "iconSize" : 40
+    },
+    "search" : {
+      "backgroundSelected" : "#B2D7FFFF",
+      "paddingHorizontal" : 8,
+      "spacing" : 10,
+      "text" : {
+        "size" : 27,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#000000E0"
+      },
+      "background" : "#FFFFFF00",
+      "roundness" : 0,
+      "paddingVertical" : 2
+    },
+    "window" : {
+      "color" : "#FFFFFF32",
+      "paddingHorizontal" : 8,
+      "width" : 680,
+      "borderPadding" : 0,
+      "borderColor" : "#FF000000",
+      "blur" : 0,
+      "roundness" : 8,
+      "paddingVertical" : 8
+    },
+    "credit" : "Wills",
+    "visualEffectMode" : 1,
+    "separator" : {
+      "color" : "#FFFFFF00",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#FFFFFF7F",
+      "thickness" : 4
+    },
+    "name" : "Big Sur Light"
+  }
+}
