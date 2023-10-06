@@ -1,0 +1,65 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#FFFFFF97",
+        "font" : "System",
+        "color" : "#FFFFFF98"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFCE",
+        "font" : "System",
+        "color" : "#FFFFFF9B"
+      },
+      "backgroundSelected" : "#00000032",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#FFFFFFFF"
+      },
+      "iconPaddingHorizontal" : 8,
+      "roundness" : 6,
+      "paddingVertical" : 6,
+      "iconSize" : 26
+    },
+    "search" : {
+      "backgroundSelected" : "#86C0FF63",
+      "paddingHorizontal" : 8,
+      "spacing" : 6,
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#FFFFFFFF"
+      },
+      "background" : "#F9F9F900",
+      "roundness" : 0,
+      "paddingVertical" : 2
+    },
+    "window" : {
+      "color" : "#43434333",
+      "paddingHorizontal" : 8,
+      "width" : 680,
+      "borderPadding" : 0,
+      "borderColor" : "#00000000",
+      "blur" : 0,
+      "roundness" : 8,
+      "paddingVertical" : 8
+    },
+    "credit" : "Wills",
+    "visualEffectMode" : 2,
+    "separator" : {
+      "color" : "#FFFFFF00",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#FFFFFF7F",
+      "thickness" : 4
+    },
+    "name" : "Ventura"
+  }
+}
